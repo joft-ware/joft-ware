@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-22-google-it-support.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-22-google-it-support.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,8 @@
       <workItem from="1610942672927" duration="6852000" />
       <workItem from="1611323136323" duration="237000" />
       <workItem from="1611323382066" duration="1932000" />
+      <workItem from="1613042799356" duration="923000" />
+      <workItem from="1613219116745" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="Add pages">
       <created>1610595462947</created>
@@ -408,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611324024712</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="20210122">
+      <created>1613043102403</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1613043102403</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
