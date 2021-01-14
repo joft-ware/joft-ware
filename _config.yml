@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "조재훈"
-  avatar           : "/assets/images/35.jpg"
+  avatar           : "https://github.com/joft-ware/joft-ware/blob/main/assets/images/35.JPG"
   bio              : "공부하는 개발자입니다."
   location         : "Seoul, Republic of Korea"
   email            : "zxc91911003@gmail.com"
