@@ -19,9 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="Bug fixed. (_config.yml had useless space)">
+    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="Bug fixed.">
+      <change afterPath="$PROJECT_DIR$/assets/images/35.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/joft-ware.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot-layouts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610594528036</updated>
-      <workItem from="1610594531823" duration="5797000" />
+      <workItem from="1610594531823" duration="6536000" />
     </task>
     <task id="LOCAL-00001" summary="Add pages">
       <created>1610595462947</created>
@@ -104,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610629946830</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bug fixed.">
+      <created>1610630578441</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610630578441</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +138,8 @@
     <MESSAGE value="Add pages" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="Bug fixed. (_config.yml had useless space)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug fixed. (_config.yml had useless space)" />
+    <MESSAGE value="Bug fixed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fixed." />
   </component>
   <component name="WindowStateProjectService">
     <state width="1893" height="107" key="GridCell.Tab.0.bottom" timestamp="1610595527274">
@@ -144,14 +158,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1893" height="107" key="GridCell.Tab.0.right/0.0.1920.1040/1920.185.1536.824@0.0.1920.1040" timestamp="1610595527274" />
-    <state x="2281" y="334" key="Vcs.Push.Dialog.v2" timestamp="1610629953187">
+    <state x="2281" y="334" key="Vcs.Push.Dialog.v2" timestamp="1610631303474">
       <screen x="1920" y="185" width="1536" height="824" />
     </state>
     <state x="451" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@0.0.1920.1040" timestamp="1610626844125" />
-    <state x="2281" y="334" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610629953187" />
-    <state x="733" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610626787809">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2281" y="334" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610631303474" />
+    <state x="2506" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610631264764">
+      <screen x="1920" y="185" width="1536" height="824" />
     </state>
     <state x="733" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.185.1536.824@0.0.1920.1040" timestamp="1610626787809" />
+    <state x="2506" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610631264764" />
   </component>
 </project>
