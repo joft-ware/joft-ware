@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="change skin from default to dark">
+    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="Update URL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610594528036</updated>
-      <workItem from="1610594531823" duration="15413000" />
+      <workItem from="1610594531823" duration="15928000" />
     </task>
     <task id="LOCAL-00001" summary="Add pages">
       <created>1610595462947</created>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610675179989</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update URL">
+      <created>1610676859896</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1610676859896</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +217,8 @@
     <MESSAGE value="makerWidget moved from left to right" />
     <MESSAGE value="delete test" />
     <MESSAGE value="change skin from default to dark" />
-    <option name="LAST_COMMIT_MESSAGE" value="change skin from default to dark" />
+    <MESSAGE value="Update URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update URL" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1509" height="73" key="GridCell.Tab.0.bottom" timestamp="1610633454670">
@@ -237,15 +245,15 @@
       <screen x="1920" y="185" width="1536" height="824" />
     </state>
     <state x="2240" y="303" key="MultipleFileMergeDialog/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610631421532" />
-    <state x="2281" y="334" key="Vcs.Push.Dialog.v2" timestamp="1610675186570">
+    <state x="2281" y="334" key="Vcs.Push.Dialog.v2" timestamp="1610676930865">
       <screen x="1920" y="185" width="1536" height="824" />
     </state>
     <state x="451" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@0.0.1920.1040" timestamp="1610626844125" />
-    <state x="2281" y="334" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610675186570" />
-    <state x="2506" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610631441208">
+    <state x="2281" y="334" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610676930865" />
+    <state x="2506" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610676889037">
       <screen x="1920" y="185" width="1536" height="824" />
     </state>
     <state x="733" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.185.1536.824@0.0.1920.1040" timestamp="1610626787809" />
-    <state x="2506" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610631441208" />
+    <state x="2506" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610676889037" />
   </component>
 </project>
