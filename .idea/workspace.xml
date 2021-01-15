@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="Fix toc_label &amp; toc_icon">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="20210115" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610594528036</updated>
-      <workItem from="1610594531823" duration="20655000" />
+      <workItem from="1610594531823" duration="21458000" />
     </task>
     <task id="LOCAL-00001" summary="Add pages">
       <created>1610595462947</created>
@@ -228,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610685560516</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="20210115">
+      <created>1610688404345</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610688404345</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +269,8 @@
     <MESSAGE value="Add toc" />
     <MESSAGE value="Add toc_sticky" />
     <MESSAGE value="Fix toc_label &amp; toc_icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix toc_label &amp; toc_icon" />
+    <MESSAGE value="20210115" />
+    <option name="LAST_COMMIT_MESSAGE" value="20210115" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1509" height="73" key="GridCell.Tab.0.bottom" timestamp="1610633454670">
@@ -291,11 +297,11 @@
       <screen x="1920" y="185" width="1536" height="824" />
     </state>
     <state x="2240" y="303" key="MultipleFileMergeDialog/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610631421532" />
-    <state x="2281" y="334" key="Vcs.Push.Dialog.v2" timestamp="1610685186938">
+    <state x="2281" y="334" key="Vcs.Push.Dialog.v2" timestamp="1610688422896">
       <screen x="1920" y="185" width="1536" height="824" />
     </state>
     <state x="451" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@0.0.1920.1040" timestamp="1610626844125" />
-    <state x="2281" y="334" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610685186938" />
+    <state x="2281" y="334" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.185.1536.824@1920.185.1536.824" timestamp="1610688422896" />
     <state x="2506" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610676889037">
       <screen x="1920" y="185" width="1536" height="824" />
     </state>
