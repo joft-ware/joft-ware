@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/joft-ware/joft-ware.svg)](http://hits.dwyl.com/joft-ware/joft-ware)
+
 <!--
 **joft-ware/joft-ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
