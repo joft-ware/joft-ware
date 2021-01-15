@@ -123,7 +123,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "zxc91911003@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
