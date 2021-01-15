@@ -287,6 +287,7 @@ defaults:
       related: true
       popular: false
       toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
