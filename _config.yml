@@ -220,6 +220,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-toc
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -285,6 +286,7 @@ defaults:
       share: true
       related: true
       popular: false
+      toc: true
   # _pages
   - scope:
       path: "_pages"
