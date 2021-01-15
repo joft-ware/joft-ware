@@ -20,3 +20,11 @@ layout: archive
 </div>
 
 {% include paginator.html %}
+<br><br>
+<div style="text-align: right;">
+  <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+     target="_blank">
+    <img
+            src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
+  </a>
+</div>
