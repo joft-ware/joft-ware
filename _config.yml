@@ -288,6 +288,8 @@ defaults:
       popular: false
       toc: true
       toc_sticky: true
+      toc_label: "Contents"
+      toc_icon: "heart"
   # _pages
   - scope:
       path: "_pages"
