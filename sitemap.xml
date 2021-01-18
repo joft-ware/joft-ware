@@ -1,29 +1,987 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-        {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
 
-        {% if post.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
-        {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
+        -<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-        {% if post.sitemap.priority == null %}
-        <priority>0.5</priority>
-        {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    </url>
-    {% endfor %}
+
+
+    -<url>
+
+    <loc>https://joftware.site/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>1.00</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/categories/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/tags/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/posts/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post/post-future-date/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/crawling/corona-live-crawling/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/jekyll/add-toc-on/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/jekyll/post-exclude-search/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-header-video/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page2/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page3/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page15/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-more-tag/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-header-overlay-image/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-header-overlay-image-tagline/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-header-overlay-color/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-header-image-vertical/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-header-image-horizontal/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-header-image-external/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-excerpt-generated/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-excerpt-defined/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-code-excerpt-generated/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-read-time-comments-sharing-related-posts-disabled/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-sharing/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-sharing-disabled/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-related-posts/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-related-posts-disabled/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-comments/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/layout-comments-disabled/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/post-teaser-image-og-override/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/post-header-overlay-image-og-override/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout/uncategorized/post-header-image-og-override/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-gallery/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-image-caption/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-image-linked-caption/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-image-standard/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-image-linked/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-video-youtube/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-link/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-quote/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-notice/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-chat/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-standard/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/post%20formats/post-modified/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/edge%20case/edge-case-very-long-title/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/edge%20case/edge-case-title-should-not-overflow-the-content-area/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/edge%20case/edge-case-no-yaml-title/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/edge%20case/edge-case-no-body-content/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/edge%20case/edge-case-many-tags/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/edge%20case/edge-case-nested-and-mixed-lists/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/jekyll/gemified-theme-beta/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/jekyll/gemified-theme-alpha/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/jekyll/welcome-to-jekyll/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup/markup-html-tags-and-formatting/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup/markup-image-alignment/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup/markup-text-alignment/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup/markup-title-with-special-characters/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/aciform/antiquarianism/arrangement/asmodeus/broder/buying/championship/chastening/disinclination/disinfection/dispatch/echappee/enphagy/edge-case-many-categories/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/media/post-twitter-embeds/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markdown/markup-title-with-markup/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup-text-readability/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup-text-readability-wide-page/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-header-image-text-readability/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-table-of-contents-sticky/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-table-of-contents-post/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-table-of-contents-indent-post/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-table-of-contents-include-post/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup-more-images/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-post-date/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-post-date-disabled/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-read-time/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-read-time-disabled/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/markup-syntax-highlighting/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-sidebar-nav-list/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-sidebar-custom/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-author-sidebar-disabled/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/layout-author-override/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/edge-case-multiline-excerpt/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page4/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page5/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page14/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page13/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.64</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page6/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.51</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page7/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.51</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page12/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.51</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page11/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.51</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page8/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.41</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page9/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.41</priority>
+
+</url>
+
+
+    -<url>
+
+    <loc>https://joftware.site/page10/</loc>
+
+    <lastmod>2021-01-18T05:54:33+00:00</lastmod>
+
+    <priority>0.41</priority>
+
+</url>
+
 </urlset>
