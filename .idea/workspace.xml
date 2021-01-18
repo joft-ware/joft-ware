@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="Update README.md">
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-15-add-toc-on.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-15-add-toc-on.md" afterDir="false" />
+    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="20210118">
+      <change afterPath="$PROJECT_DIR$/assets/images/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610594528036</updated>
       <workItem from="1610594531823" duration="27558000" />
-      <workItem from="1610942672927" duration="872000" />
+      <workItem from="1610942672927" duration="3454000" />
     </task>
     <task id="LOCAL-00001" summary="Add pages">
       <created>1610595462947</created>
@@ -343,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610943047069</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="20210118">
+      <created>1610944143539</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1610944143539</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +370,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add pages" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="Bug fixed. (_config.yml had useless space)" />
     <MESSAGE value="Bug fixed." />
@@ -387,6 +394,7 @@
     <MESSAGE value="Remove HITS &amp; Naver verification" />
     <MESSAGE value="[20210118]" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="20210118" />
+    <option name="LAST_COMMIT_MESSAGE" value="20210118" />
   </component>
 </project>
