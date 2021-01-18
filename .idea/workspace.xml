@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="20210118 sitemap.xml">
+    <list default="true" id="e134eb59-e9f6-4565-8a38-bf246a213972" name="Default Changelist" comment="20210118 naver webmaster">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610594528036</updated>
       <workItem from="1610594531823" duration="27558000" />
-      <workItem from="1610942672927" duration="5992000" />
+      <workItem from="1610942672927" duration="6852000" />
     </task>
     <task id="LOCAL-00001" summary="Add pages">
       <created>1610595462947</created>
@@ -392,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610954675256</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="20210118 sitemap.xml">
+      <created>1610954777779</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1610954777779</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +421,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bug fixed." />
     <MESSAGE value="Image Update" />
     <MESSAGE value="year-archive.md" />
     <MESSAGE value="- POST added.&#10;- Comments added&#10;- Profile widget added" />
@@ -436,6 +445,7 @@
     <MESSAGE value="20210118" />
     <MESSAGE value="20210118 fix url" />
     <MESSAGE value="20210118 sitemap.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="20210118 sitemap.xml" />
+    <MESSAGE value="20210118 naver webmaster" />
+    <option name="LAST_COMMIT_MESSAGE" value="20210118 naver webmaster" />
   </component>
 </project>
