@@ -7,8 +7,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joft-ware)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joft-ware&layout=compact&theme=dracula)](https://github.com/joft-ware)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sky0331)](https://solved.ac/sky0331)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky0331)](https://solved.ac/sky0331)
 
 <!--
 **joft-ware/joft-ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
