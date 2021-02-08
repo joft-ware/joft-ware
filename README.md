@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JOFT-WARE&fontSize=70)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoft-ware&count_bg=%23061C68&title_bg=%23555555&icon=github.svg&icon_color=%2314A7F1&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joft-ware&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joft-ware&layout=compact&theme=dracula)](https://github.com/joft-ware)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky0331)](https://solved.ac/sky0331)
-
 <h1 align="center">Hi 👋, I'm Jaehun Jo</h1>
 <h3 align="center">A passionate software developer from Korea</h3>
 
@@ -45,17 +37,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joft-ware&" alt="joft-ware" /></p>
 
-<!--
-**joft-ware/joft-ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoft-ware&count_bg=%23061C68&title_bg=%23555555&icon=github.svg&icon_color=%2314A7F1&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joft-ware&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joft-ware&layout=compact&theme=dracula)](https://github.com/joft-ware)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky0331)](https://solved.ac/sky0331)
