@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zxc91911003@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/Jaehun-Jo-5142bb5c3a2b4820a57013c435f1508f](https://www.notion.so/Jaehun-Jo-5142bb5c3a2b4820a57013c435f1508f)
+- 📄 Know about my experiences [here](https://www.notion.so/Jaehun-Jo-5142bb5c3a2b4820a57013c435f1508f)
 
 - ⚡ Fun fact **I am 24 years old**
 
