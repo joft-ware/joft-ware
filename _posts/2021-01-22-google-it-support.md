@@ -5,7 +5,7 @@ tags:
 - Google
 - Google IT support
 category:
-- Coursea
+- Coursera
 ---
 
 ## Google IT Support
