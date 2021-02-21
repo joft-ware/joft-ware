@@ -35,7 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joft-ware&" alt="joft-ware" /></p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joft-ware&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joft-ware&layout=compact&theme=dracula)](https://github.com/joft-ware)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky0331)](https://solved.ac/sky0331)
