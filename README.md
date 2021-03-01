@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Data engineer from Korea</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joft-ware&label=Profile%20views&color=0e75b6&style=flat" alt="joft-ware" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joft-ware" alt="joft-ware" /></a> </p>
+<p>
 - 🌱 I’m currently learning **Machine Learning, Big Data, Bioinformatics**
 - 
 - 📝 I regularly write articles on [http://joft.site](http://joft.site)
@@ -12,7 +13,8 @@
 - 📄 Know about my experiences [here](https://www.notion.so/Jaehun-Jo-5142bb5c3a2b4820a57013c435f1508f)
 - 
 - ⚡ Fun fact **I am 24 years old**
-- 
+-
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/joftware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joftware" height="30" width="40" /></a>
