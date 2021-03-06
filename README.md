@@ -14,7 +14,7 @@
 - 
 - ⚡ Fun fact **I am 24 years old**
 -
-  </p>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/joftware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joftware" height="30" width="40" /></a>
