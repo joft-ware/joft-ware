@@ -5,12 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joft-ware" alt="joft-ware" /></a> </p>
 <p>
 - 🌱 I’m currently learning **Machine Learning, Big Data, Bioinformatics**
-- 
-- 📝 I regularly write articles on [http://joft.site](http://joft.site)
-- 
+- <p>
+- 📝 I regularly write articles on (http://joft.site)
+- </p>
+<p>
 - 📫 How to reach me [zxc91911003@gmail.com]
 - 
-
+<p/>
 -
 </p>
 <h3 align="left">Connect with me:</h3>
