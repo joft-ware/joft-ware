@@ -8,7 +8,7 @@
 - 
 - 📝 I regularly write articles on [http://joft.site](http://joft.site)
 - 
-- 📫 How to reach me **zxc91911003@gmail.com**
+- 📫 How to reach me [zxc91911003@gmail.com]
 - 
 
 -
