@@ -6,7 +6,6 @@
 <p>
 - 🌱 I’m currently learning **Machine Learning, Big Data, Bioinformatics**
 - <p>
-- 📝 I regularly write articles on (http://joft.site)
 - </p>
 <p>
 - 📫 How to reach me [zxc91911003@gmail.com]
