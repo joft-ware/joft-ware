@@ -5,14 +5,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joft-ware" alt="joft-ware" /></a> </p>
 <p>
 - 🌱 I’m currently learning **Machine Learning, Big Data, Bioinformatics**
-- <p>
-- </p>
 <p>
-- 📫 How to reach me [zxc91911003@gmail.com]
-- 
-<p/>
--
-</p>
+- 📫 zxc91911003@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/joftware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joftware" height="30" width="40" /></a>
