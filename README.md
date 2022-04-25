@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joft-ware&label=Profile%20views&color=0e75b6&style=flat" alt="joft-ware" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joft-ware" alt="joft-ware" /></a> </p>
 <p>
-- 🌱 I’m currently learning **Machine Learning, Big Data, Bioinformatics**
+- 🌱 I’m currently learning Medical AI, Bioinformatics
 <p>
 - 📫 zxc91911003@gmail.com
 <h3 align="left">Connect with me:</h3>
